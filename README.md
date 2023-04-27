@@ -5,7 +5,7 @@ Pengunjung
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=halokaasu alt=Vindraxd/> </p>
 
-#packages
+# packages
 
 > pkg update && pkg upgrade
 
